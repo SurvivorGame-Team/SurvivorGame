@@ -1,4 +1,0 @@
-repository "SurvivorGame/SurvivorGame@14569646621506@cloud"
-  path "/"
-    br "/main"
-    co "/main"
